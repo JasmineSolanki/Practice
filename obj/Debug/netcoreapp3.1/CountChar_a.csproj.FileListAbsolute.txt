@@ -1,0 +1,13 @@
+C:\Users\Shivanshi Atharv\Desktop\Programs\CountChar_a\bin\Debug\netcoreapp3.1\CountChar_a.exe
+C:\Users\Shivanshi Atharv\Desktop\Programs\CountChar_a\bin\Debug\netcoreapp3.1\CountChar_a.deps.json
+C:\Users\Shivanshi Atharv\Desktop\Programs\CountChar_a\bin\Debug\netcoreapp3.1\CountChar_a.runtimeconfig.json
+C:\Users\Shivanshi Atharv\Desktop\Programs\CountChar_a\bin\Debug\netcoreapp3.1\CountChar_a.runtimeconfig.dev.json
+C:\Users\Shivanshi Atharv\Desktop\Programs\CountChar_a\bin\Debug\netcoreapp3.1\CountChar_a.dll
+C:\Users\Shivanshi Atharv\Desktop\Programs\CountChar_a\bin\Debug\netcoreapp3.1\CountChar_a.pdb
+C:\Users\Shivanshi Atharv\Desktop\Programs\CountChar_a\obj\Debug\netcoreapp3.1\CountChar_a.csprojAssemblyReference.cache
+C:\Users\Shivanshi Atharv\Desktop\Programs\CountChar_a\obj\Debug\netcoreapp3.1\CountChar_a.AssemblyInfoInputs.cache
+C:\Users\Shivanshi Atharv\Desktop\Programs\CountChar_a\obj\Debug\netcoreapp3.1\CountChar_a.AssemblyInfo.cs
+C:\Users\Shivanshi Atharv\Desktop\Programs\CountChar_a\obj\Debug\netcoreapp3.1\CountChar_a.csproj.CoreCompileInputs.cache
+C:\Users\Shivanshi Atharv\Desktop\Programs\CountChar_a\obj\Debug\netcoreapp3.1\CountChar_a.dll
+C:\Users\Shivanshi Atharv\Desktop\Programs\CountChar_a\obj\Debug\netcoreapp3.1\CountChar_a.pdb
+C:\Users\Shivanshi Atharv\Desktop\Programs\CountChar_a\obj\Debug\netcoreapp3.1\CountChar_a.genruntimeconfig.cache
